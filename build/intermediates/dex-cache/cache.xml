@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-a376da6c61640e675d0a02c417381d675418cf0a.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdka\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-a24fbcf57ec6af76a1cbc582c8a87e5e676b6ffa.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-f069f5fe7a8500e7d2e9f620c5791c7e3de07216.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-e71a72c0eaf837db602d6bf817a303b881e4e205.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-1ad0d1065c0a9a8e08c960cd14758d662d87c05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\glide-3.6.0-f135952e51292b20e1e062defd16b4be6a4c4c76.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-58541c64f39710e94c73f4d7715d6e54998c84bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\classes-cf1b54f27a164d1a0cf84c3776610dec9650111c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\dang\Desktop\cheesesquare-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-f4133eb2dbf8ccc6d65702dd2c4fc0dea84b78ac.jar" />
+    </item>
+
+</items>
